@@ -1,2 +1,3 @@
 hello this is start
 second line in text-file  
+ahoj shrek
