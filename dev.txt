@@ -1,1 +1,2 @@
 toto bude zatial iba v dev 
+prvy update v dev
