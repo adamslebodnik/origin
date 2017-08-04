@@ -1,1 +1,3 @@
 tu vyvijame ovocie
+
+shrek prave implementuje ovocie
