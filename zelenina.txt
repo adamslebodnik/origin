@@ -1,1 +1,3 @@
 vyvoj zeleniny
+
+adam implementuje zeleninu
